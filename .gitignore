@@ -1,0 +1,2 @@
+src/*.wasm
+src/zig-cache
